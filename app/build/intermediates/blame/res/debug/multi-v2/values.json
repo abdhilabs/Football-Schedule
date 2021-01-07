@@ -1,8 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
+                {
+                    "source": "/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "19,344",
+                        "endLines": "7,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "336,666"
+                    },
+                    "to": {
+                        "startLines": "645,2083",
+                        "startColumns": "4,4",
+                        "startOffsets": "39496,133205",
+                        "endLines": "650,2088",
+                        "endColumns": "12,12",
+                        "endOffsets": "39808,133522"
+                    }
+                },
                 {
                     "source": "/Users/mymac/.gradle/caches/transforms-2/files-2.1/4a8a2ff61729c0e607bf5eab5726c677/material-1.0.0/res/values/values.xml",
                     "from": {
@@ -59,39 +78,22 @@
                     }
                 },
                 {
-                    "source": "/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/res/values/colors.xml",
+                    "source": "/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "157,57,105",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "198,99,151"
+                        "startLines": "11,1,9,25,3,4,8,6,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "424,17,373,973,73,124,310,185,249",
+                        "endLines": "22,1,9,25,3,4,8,6,7",
+                        "endColumns": "19,52,47,69,49,57,61,62,59",
+                        "endOffsets": "906,65,416,1038,118,177,367,243,304"
                     },
                     "to": {
-                        "startLines": "205,206,207",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "10505,10551,10598",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "10546,10593,10644"
-                    }
-                },
-                {
-                    "source": "/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "2,9",
-                        "startColumns": "4,4",
-                        "startOffsets": "19,344",
-                        "endLines": "7,14",
-                        "endColumns": "12,12",
-                        "endOffsets": "336,666"
-                    },
-                    "to": {
-                        "startLines": "645,2083",
-                        "startColumns": "4,4",
-                        "startOffsets": "39496,133205",
-                        "endLines": "650,2088",
-                        "endColumns": "12,12",
-                        "endOffsets": "39808,133522"
+                        "startLines": "2,613,620,621,624,630,633,634,635",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "150,36367,37206,37254,37558,38410,38592,38654,38717",
+                        "endLines": "13,613,620,621,624,630,633,634,635",
+                        "endColumns": "19,52,47,69,49,57,61,62,59",
+                        "endOffsets": "621,36415,37249,37319,37603,38463,38649,38712,38772"
                     }
                 },
                 {
@@ -152,22 +154,20 @@
                     }
                 },
                 {
-                    "source": "/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/res/values/strings.xml",
+                    "source": "/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/res/values/colors.xml",
                     "from": {
-                        "startLines": "11,1,9,25,3,4,8,6,7",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "424,17,373,973,73,124,310,185,249",
-                        "endLines": "22,1,9,25,3,4,8,6,7",
-                        "endColumns": "19,52,47,69,49,57,61,62,59",
-                        "endOffsets": "906,65,416,1038,118,177,367,243,304"
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
                     },
                     "to": {
-                        "startLines": "2,613,620,621,624,630,633,634,635",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "150,36367,37206,37254,37558,38410,38592,38654,38717",
-                        "endLines": "13,613,620,621,624,630,633,634,635",
-                        "endColumns": "19,52,47,69,49,57,61,62,59",
-                        "endOffsets": "621,36415,37249,37319,37603,38463,38649,38712,38772"
+                        "startLines": "205,206,207",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "10505,10551,10598",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "10546,10593,10644"
                     }
                 },
                 {

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
                     "source": "/Users/mymac/.gradle/caches/transforms-2/files-2.1/4a8a2ff61729c0e607bf5eab5726c677/material-1.0.0/res/values-land/values-land.xml",

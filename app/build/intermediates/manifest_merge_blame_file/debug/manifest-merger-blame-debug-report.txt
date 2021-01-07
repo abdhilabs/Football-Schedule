@@ -6,70 +6,69 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml
+8-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="28" />
-9-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml
+9-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:6:5-67
-11-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:6:22-64
+11-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:6:5-67
+11-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:6:22-64
 12
 13    <application
-13-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:8:5-35:19
+13-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:8:5-35:19
 14        android:name="com.abdhilabs.footbalschedule.base.BaseApp"
-14-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:9:9-37
+14-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:9:9-37
 15        android:allowBackup="true"
-15-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:10:9-35
+15-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:10:9-35
 16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 16-->[androidx.core:core:1.1.0] /Users/mymac/.gradle/caches/transforms-2/files-2.1/a83bef444c9240faa8e56c19819ce9ad/core-1.1.0/AndroidManifest.xml:24:18-86
 17        android:debuggable="true"
 18        android:icon="@mipmap/ic_launcher"
-18-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:11:9-43
+18-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:11:9-43
 19        android:label="@string/app_name"
-19-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:12:9-41
+19-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:12:9-41
 20        android:roundIcon="@mipmap/ic_launcher_round"
-20-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:13:9-54
+20-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:13:9-54
 21        android:supportsRtl="true"
-21-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:14:9-35
-22        android:testOnly="true"
-23        android:theme="@style/AppTheme" >
-23-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:15:9-40
-24        <activity
-24-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:17:9-19:50
-25            android:name="com.abdhilabs.footbalschedule.ui.league.detail.detailteam.DetailTeamActivity"
-25-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:18:13-75
-26            android:theme="@style/DetailTheme" />
-26-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:19:13-47
-27        <activity
-27-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:20:9-23:50
-28            android:name="com.abdhilabs.footbalschedule.ui.league.detail.detailmatch.DetailMatchActivity"
-28-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:21:13-77
-29            android:parentActivityName="com.abdhilabs.footbalschedule.ui.MainActivity"
-29-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:22:13-58
-30            android:theme="@style/DetailTheme" />
-30-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:23:13-47
-31        <activity
-31-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:24:9-27:50
-32            android:name="com.abdhilabs.footbalschedule.ui.league.detail.DetailLeagueActivity"
-32-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:25:13-66
-33            android:parentActivityName="com.abdhilabs.footbalschedule.ui.MainActivity"
-33-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:26:13-58
-34            android:theme="@style/DetailTheme" />
-34-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:27:13-47
-35        <activity android:name="com.abdhilabs.footbalschedule.ui.MainActivity" >
-35-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:28:9-34:20
-35-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:28:19-50
-36            <intent-filter>
-36-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:29:13-33:29
-37                <action android:name="android.intent.action.MAIN" />
-37-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:30:17-69
-37-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:30:25-66
-38
-39                <category android:name="android.intent.category.LAUNCHER" />
-39-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:32:17-77
-39-->/Users/mymac/AndroidStudioProjects/Dicoding/FootbalSchedule/app/src/main/AndroidManifest.xml:32:27-74
-40            </intent-filter>
-41        </activity>
-42    </application>
-43
-44</manifest>
+21-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:14:9-35
+22        android:theme="@style/AppTheme" >
+22-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:15:9-40
+23        <activity
+23-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:17:9-19:50
+24            android:name="com.abdhilabs.footbalschedule.ui.league.detail.detailteam.DetailTeamActivity"
+24-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:18:13-75
+25            android:theme="@style/DetailTheme" />
+25-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:19:13-47
+26        <activity
+26-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:20:9-23:50
+27            android:name="com.abdhilabs.footbalschedule.ui.league.detail.detailmatch.DetailMatchActivity"
+27-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:21:13-77
+28            android:parentActivityName="com.abdhilabs.footbalschedule.ui.MainActivity"
+28-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:22:13-58
+29            android:theme="@style/DetailTheme" />
+29-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:23:13-47
+30        <activity
+30-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:24:9-27:50
+31            android:name="com.abdhilabs.footbalschedule.ui.league.detail.DetailLeagueActivity"
+31-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:25:13-66
+32            android:parentActivityName="com.abdhilabs.footbalschedule.ui.MainActivity"
+32-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:26:13-58
+33            android:theme="@style/DetailTheme" />
+33-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:27:13-47
+34        <activity android:name="com.abdhilabs.footbalschedule.ui.MainActivity" >
+34-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:28:9-34:20
+34-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:28:19-50
+35            <intent-filter>
+35-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:29:13-33:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:30:17-69
+36-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:30:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:32:17-77
+38-->/Users/mymac/AndroidStudioProjects/Project/Football-Schedule/app/src/main/AndroidManifest.xml:32:27-74
+39            </intent-filter>
+40        </activity>
+41    </application>
+42
+43</manifest>
